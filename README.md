@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Maksym 👋</h1>
-<h3 align="center">Junior Data Analyst & Python Enthusiast | Data Integration | AI Learner</h3>
+<h3 align="center">Junior Data Analyst & Python Enthusiast | Data Integration -</h3>
 
 ---
 
@@ -24,7 +24,6 @@
 - 📚 Always learning: Data Science, ML, and Cloud (AWS, Azure)
 - 📝 Writing a Master’s thesis: *“Models and Methods for Enhancing Audio Quality of Musical Works Using Neural Networks”*
 - 💡 Sharing book insights and self-growth ideas in my Telegram channel [@TheForgem4ster](https://t.me/TheForgem4ster)
-- 🥅 Goal: Reach $2k/mo as a Data Pro by end of 2025
 
 ---
 
