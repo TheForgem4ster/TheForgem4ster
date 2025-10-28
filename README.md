@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Maksym 👋</h1>
-<h3 align="center">Junior Data Analyst & Python Enthusiast | Data Integration -</h3>
+<h3 align="center">Data Analyst & Python Data Engineer-</h3>
 
 ---
 
