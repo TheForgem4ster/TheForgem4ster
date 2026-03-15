@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Maksym 👋</h1>
-<h3 align="center">Data Analyst & Python Data Engineer-</h3>
+<h3 align="center">Python Data Engineer-</h3>
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 Junior Data Analyst focused on **Data Integration & ETL**
+- 🧑‍💻 Data Engineer
 - 🐍 Python Developer, building ETL pipelines and automating boring stuff
 - 🤖 Keen on **AI, Deep Learning, and Audio Enhancement**
 - 📚 Always learning: Data Science, ML, and Cloud (AWS, Azure)
